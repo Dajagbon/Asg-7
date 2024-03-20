@@ -1,15 +1,15 @@
 # Asg-7
 
-**a) Purpose of the Program(s)**: The purpose of the factor program is to allow the users to choose between 3 modes: LCM, GCF, and Stop. In GCF, the program should take two integers and input and compute the greatest common factor between those values. In each of those modes, the program should confirm that the user input is acceptable, if not the program should continue to prompt the user until the input is acceptable. After completing the task, the program should ask the user what they want to do, and should only stop after the user inputs ‘Stop’ as the mode.
+**a) Purpose of the Program(s)**: The purpose of the probability program is to take a dice configuration, and a numeric value as input. The function should then calculate the probability of rolling a series of numbers on the dice that matches or exceeds the input value (ie. ‘1d6’, 3, would return 4/6). 
 
-The purpose of the passage program is to take two inputs: a passage of at least 200 characters, and a character. The program should then scan the passage for the number of occurrences of the specified character. If the character is not contained in the passage, the program should prompt the user to ask the user to give another character. If the user uses a passage of insufficient size the program should inform them of the number of characters contained in their passage and prompt them to enter another passage.
+The purpose of the combinatorics program is to take a string as input and generate a list of all permutations of the characters used in that string. For example, the input ‘AB’ would return ‘AB’ and ‘BA’. 
 
-b) Input: The factor program's input is the Modes and two numbers given by the user. The passage program's input is the letter the user provides.
+**b) Input:** The probability program's input is the dice configuration and the numeric value provided by the information. The combinatorics program's input is the string provided by the information.
 
-c) Expected Output: The factor program's output is GCF, LCM, or Stop from the given information. The passage program comes out as the number of times the letter is in each passage.
+**c) Expected Output:** The probability program's output is a probability from the given information. The combinatorics program is the rearranged permutation words from the given information. 
 
-d) Type of Execution: The type(s) of execution for the factor and passage program is Conditional execution.
+**d) Type of Execution:** The type(s) of execution for the probability and combinatorics program is Conditional execution.
 
-e) Possible Improvements: The factor program could be improved by: I could explain parts of what my code does.
+**e) Possible Improvements:** The probability program could be improved by: Allowing the def function to take the number of dice and the target value as arguments or by adding more clarity to my variable names. 
 
-The passage could be improved by: I could also explain what my code does here and use a input for the passages.
+The combinatorics program could be improved by: Using more descriptive variable names. 
