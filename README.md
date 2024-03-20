@@ -1,12 +1,6 @@
 # Asg-7
-a) Purpose of the Program(s): 
 
-a) Purpose of the Program(s): 
-
-**a) Purpose of the Program(s): 
-**
-
-The purpose of the factor program is to allow the users to choose between 3 modes: LCM, GCF, and Stop. In GCF, the program should take two integers and input and compute the greatest common factor between those values. In each of those modes, the program should confirm that the user input is acceptable, if not the program should continue to prompt the user until the input is acceptable. After completing the task, the program should ask the user what they want to do, and should only stop after the user inputs ‘Stop’ as the mode.
+**a) Purpose of the Program(s)**: The purpose of the factor program is to allow the users to choose between 3 modes: LCM, GCF, and Stop. In GCF, the program should take two integers and input and compute the greatest common factor between those values. In each of those modes, the program should confirm that the user input is acceptable, if not the program should continue to prompt the user until the input is acceptable. After completing the task, the program should ask the user what they want to do, and should only stop after the user inputs ‘Stop’ as the mode.
 
 The purpose of the passage program is to take two inputs: a passage of at least 200 characters, and a character. The program should then scan the passage for the number of occurrences of the specified character. If the character is not contained in the passage, the program should prompt the user to ask the user to give another character. If the user uses a passage of insufficient size the program should inform them of the number of characters contained in their passage and prompt them to enter another passage.
 
